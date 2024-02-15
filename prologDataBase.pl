@@ -1,2 +1,2 @@
-parent(John, David).
-parent(Mary, David).
+parent(john, david).
+parent(mary, david).
